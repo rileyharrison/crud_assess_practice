@@ -1,0 +1,47 @@
+1. New Folder: crud-asses
+2. add this as project folder in atom
+3. npm init
+4. npm install angular —save
+5. npm install angular-route —save
+6. npm install body-parser —save
+7. npm install express —save
+8. npm install mongoose —save
+9. modify package.son after test, "start": "node server/app.js”, don’t forget comma after test
+10. new file .gitignore contains only the text “node_modules” without quotes
+11. New folder > server
+12. new folder server > models
+13. new folder server > modules
+14. new folder server > public
+15. new file server> app.js
+16. new file in server > models > NOUN PLURAL of what I will save .js for database, i.e. movies.js
+17. new file server > modules > db.js, holds and exports database connection
+18. new file server > modules > index.js, this is basically a router.
+19. new folder server > public > assets
+20. new folder server > public > views
+21. new folder server > public > assets > scripts
+22. new folder server > public > assets > vendors
+23. new file server > public > assets > scripts > app.js
+24. new file server > public > assets > scripts > controllers.js
+25. new file server > public  > assets > scripts > factories.js
+26. copy file angular-route.js from node_modules to server > public > assets > vendors
+27. copy file angular-route.min.js from node_modules to server > public > assets > vendors
+28. copy file angular-route.min.js.map from node_modules to server > public > assets > vendors
+29. copy file angular.js from node_modules to server > public > assets > vendors
+30. copy file angular.min.js from node_modules to server > public > assets > vendors
+31. copy file angular.min.js.map from node_modules to server > public > assets > vendors
+32. new folder server > public > views > routes
+33. new file server > public > views > index.html
+34. new file server > public > views > routes > add.html
+35. new file server > public > views > routes > home.html
+36. new file server > public > views > routes > view.html
+37. retype contents of server > models > movies.js
+38. retype contents of server > modules > db.js
+39. retype contents of server > modules > index.js
+40. retype contents of public > assets > scripts > app.js
+41. retype contents of public  assets > scripts > controller.js
+42. retype contents of public > assets > scripts > factories.js
+43. retype contents of server > public > views > routes > add.html
+44. retype contents of server > public > views > routes > home.html
+45. retype contents of server > public > views > routes > view.html
+46. retype contents of server > public > views > index.html
+47. retype contents of server > public > app.js
